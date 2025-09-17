@@ -47,9 +47,9 @@ Esses notebooks são a origem dos artefatos que são armazenados no MinIO, rastr
 ---
 > ℹ️ **Este projeto foi desenvolvido com base no conteúdo prático da FIAP em parceria com a Empresa Click Bus.                                                                                                       
 > Composto pelos integrantes: **Caio Palermo**, **Iago Campos** e **Jonathan Moreira** (*eu mesmo 😄*).
+---
 
 #### 📁 **Todos os arquivos com códigos e sintaxes utilizadas estão organizados neste repositório. Explore os diretórios para ver os pipelines e scripts!**
 
----
 > 📦 Projeto original disponível em:
 <img width="937" height="528" alt="Image" src="https://github.com/user-attachments/assets/ff57242d-48b7-4b52-8e74-262afc055e6d" /> ((https://github.com/MingoFiap/Mingo-ClickBus))
