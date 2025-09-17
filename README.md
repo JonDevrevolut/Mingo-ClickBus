@@ -45,11 +45,11 @@ A pipeline de MLOps é construída em etapas lógicas:
 Esses notebooks são a origem dos artefatos que são armazenados no MinIO, rastreados pelo MLflow e, por fim, servidos pelos contêineres de predição no Kubernetes.
 
 ---
-> ℹ️ **Este projeto foi desenvolvido com base no conteúdo prático da FIAP em parceria com a Empresa Click Bus 
+> ℹ️ **Este projeto foi desenvolvido com base no conteúdo prático da FIAP em parceria com a Empresa Click Bus.                                                                                                       
 > Composto pelos integrantes: **Caio Palermo**, **Iago Campos** e **Jonathan Moreira** (*eu mesmo 😄*).
 
 #### 📁 **Todos os arquivos com códigos e sintaxes utilizadas estão organizados neste repositório. Explore os diretórios para ver os pipelines e scripts!**
 
 ---
 > 📦 Projeto original disponível em:
-<img width="1150" height="648" alt="Image" src="https://github.com/user-attachments/assets/fc41ec9d-b54c-4f60-ae93-7c86770cd0ae" /> (https://github.com/AzyonDatamining/Azyon))
+<img width="937" height="528" alt="Image" src="https://github.com/user-attachments/assets/ff57242d-48b7-4b52-8e74-262afc055e6d" /> ((https://github.com/MingoFiap/Mingo-ClickBus))
